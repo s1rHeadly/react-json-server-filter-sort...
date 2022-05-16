@@ -1,0 +1,106 @@
+
+{
+    "users":[
+
+        {
+            "name": "John Witham",
+            "email": "john@gmail.com",
+            "phone": "234567890",
+            "address": "Australia",
+            "id": 1,
+            "status": "active"
+        },
+
+        {
+            "name": "James Harris",
+            "email": "james@gmail.com",
+            "phone": "1297850",
+            "address": "UK",
+            "id": 2,
+            "status": "active"
+        },
+
+        {
+            "name": "Alan LeClerc",
+            "email": "alan@gmail.com",
+            "phone": "234567890",
+            "address": "Germany",
+            "id": 3,
+            "status": "active"
+        },
+
+
+        {
+            "name": "Julie Boyle",
+            "email": "julie@gmail.com",
+            "phone": "9817395",
+            "address": "Ireland",
+            "id":4,
+            "status": "inactive"
+        },
+
+        {
+            "name": "Sam Smells",
+            "email": "sam@gmail.com",
+            "phone": "2347904",
+            "address": "Germany",
+            "id":5,
+            "status": "active"
+        },
+
+        {
+            "name": "Sarah Socks",
+            "email": "sarah@gmail.com",
+            "phone": "2347904",
+            "address": "Australia",
+            "id":6,
+            "status": "inactive"
+        },
+
+        {
+            "name": "Leon Haslam",
+            "email": "leon@gmail.com",
+            "phone": "3667904",
+            "address": "Singapore",
+            "id":7,
+            "status": "active"
+        },
+
+        {
+            "name": "Ciaran Murphy",
+            "email": "ciaran@gmail.com",
+            "phone": "2396870",
+            "address": "Sweden",
+            "id":8,
+            "status": "inactive"
+        },
+
+        {
+            "name": "Gary Oldman",
+            "email": "gary@gmail.com",
+            "phone": "3456778",
+            "address": "UK",
+            "id":9,
+            "status": "active"
+        },
+
+        {
+            "name": "Warren Beatty",
+            "email": "warren@gmail.com",
+            "phone": "778237596",
+            "address": "Ireland",
+            "id":10,
+            "status": "active"
+        },
+
+        {
+            "name": "John Doe",
+            "email": "jDoe@gmail.com",
+            "phone": "778237596",
+            "address": "Holland",
+            "id":11,
+            "status": "inactive"
+        }
+
+    ]
+}
